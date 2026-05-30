@@ -1,0 +1,5 @@
+{
+  "name": "VitalPulse",
+  "description": "A real-time healthcare emergency response app for finding ambulances and tracking hospital bed availability.",
+  "requestFramePermissions": ["geolocation"]
+}
